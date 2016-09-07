@@ -1,0 +1,36 @@
+body{
+	background-color: orange;
+}
+
+h1{
+	color:#ffffff;
+	text-align: center;
+	font-size: 48px;
+}
+
+p{
+	font-size: 32px;
+	color: yellow;
+}
+
+.box{
+	width: 650px;
+	margin: 0 auto;
+	border: 1px solid black;
+}
+
+#box-red{
+	background-color: red;
+}
+#box-green{
+	background-color: green;
+}
+#box-orange{
+	background-color: orange;
+}
+#box-blue{
+	background-color: blue;
+}
+#box-purple{
+	background-color: purple;
+}
